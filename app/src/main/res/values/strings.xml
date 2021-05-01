@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application5 exo3 serie 3</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="user1_name">Merabet Mohamed Malih</string>
+    <string name="user1_description">etudiant 2 cs specialité sit 3 </string>
+    <string name="user2_name">Benzaid nedjma wissem </string>
+    <string name="user2_description">etudiante en 2 cs specialité sit</string>
+    <string name="user3_name">soufian batata</string>
+    <string name="user3_description">un maitre de TDM developement mobile</string>
+    <string name="description">description</string>
+</resources>

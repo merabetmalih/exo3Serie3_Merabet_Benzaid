@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقي</string>
+    <string name="name">الاسم</string>
+    <string name="description">الوصف</string>
+    <string name="user1_name">مرابط محمد مليح</string>
+    <string name="user1_description">طالب سنة ثانية معلوماتية </string>
+    <string name="user2_name">بنزايد جمة وسام </string>
+    <string name="user2_description">طالبة جامعية</string>
+    <string name="user3_name">سفيان</string>
+    <string name="user3_description">مدرس برمجة تطبقات</string>
+</resources>
